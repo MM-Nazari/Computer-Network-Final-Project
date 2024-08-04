@@ -6,9 +6,8 @@
 - [Installation](#installation)
 
 ## Project Description
-For a detailed Project description, please refer to the [Project Description PDF](./IR-Project-Spring%201402-Phase2.pdf). <br />
-The Implemented Code is provided in the [Phase02 Code](./Phase02.py). <br />
-The Report is provided in the [Phase02 Report](./IR_Phase02-Report.pdf).
+For a detailed Project description, please refer to the [Project Description PDF](./CN_FinalProject.pdf). <br />
+The Report is provided in the [Project Report](./CNFinalProject_Report-9931061.pdf).
 
 ## IDE
 This project is developed using Pycharm.
