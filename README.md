@@ -9,6 +9,12 @@
 For a detailed Project description, please refer to the [Project Description PDF](./CN_FinalProject.pdf). <br />
 The Report is provided in the [Project Report](./CNFinalProject_Report-9931061.pdf).
 
+## Dependencies
+
+This project uses the following libraries:
+- [redis](https://redis.io/docs/latest/develop/connect/clients/python/)
+- [http.server](https://docs.python.org/3/library/http.server.html)
+
 ## IDE
 This project is developed using Pycharm.
 
